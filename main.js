@@ -8,95 +8,95 @@ $.fn.extend({
 });
 
 var question = [{
-        title: "The name of the popular online battle royale game PUBG, is short for what?",
-        answers: ['PLAYERUNKNOWN\'S BATTLEGROUNDS', 'Public Undefeated Best Game', 'PLAYERS UNKNOWN BATTLEFIELD GAME', 'PLAYERUNKNOWN\'S BATTLELOG'],
-        correctAnswer: 0
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
     },
     {
         title: "Whats 20 devided by 4?",
         answers: ['20', '5', '4', '10'],
         correctAnswer: 1
     }, {
-        title: "What temperature does the water boil at? In Celcius.",
-        answers: ['0 degrees', '50 degrees', '100 degrees', '25 degrees'],
-        correctAnswer: 2
-    },
-    {
-        title: "Which country is home to the kangaroo?",
-        answers: ['United States', 'Australia', 'South Africa', 'Germany'],
-        correctAnswer: 1
-    }, {
-        title: "What is the top colour in a rainbow?",
-        answers: ['Blue', 'Yellow', 'Red', 'Purple'],
-        correctAnswer: 2
-    },
-    {
-        title: "What is the name of the famous big clock in London?",
-        answers: ['Big John', 'Big Pete', 'Big Ben', 'Big Tim'],
-        correctAnswer: 2
-    }, {
-        title: "How many milligrams make a gram?",
-        answers: ['100', '1.000', '10.000', '100.000'],
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
         correctAnswer: 1
     },
     {
-        title: "What is the capital of Thailand?",
-        answers: ['Bangkok', 'Shanghai', 'Hong Kong', 'Singapore'],
-        correctAnswer: 0
-    }, {
-        title: "Actor Arnold Schwarzenegger was once governor of which American State?",
-        answers: ['Texas', 'Arizona', 'California', 'Florida'],
-        correctAnswer: 2
-    },
-    {
-        title: "What is the best site on the Market? It\'s probably Number 3!",
-        answers: ['Treasure.gg', 'Treasure.gg', 'Treasure.gg', 'Treasure.gg'],
-        correctAnswer: 2
-    }, {
-        title: "The Pope is guarded by a small force of soldiers from which country?",
-        answers: ['Italy', 'Vatican City', 'Germany', 'Switzerland'],
-        correctAnswer: 3
-    },
-    {
-        title: "Legend has it that Marilyn Monroe wore nothing but what to bed?",
-        answers: ['Pyjamas', 'Channel No5', 'Channel No10', 'Nothing'],
+       title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
         correctAnswer: 1
     }, {
-        title: "In what ocean did the Titanic sink?",
-        answers: ['Pacific Ocean', 'Atlantic Ocean', 'Indian Ocean', 'Arctic Ocean'],
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
         correctAnswer: 1
     },
     {
-        title: "Created in 2009, what was the first decentralized cryptocurrency?",
-        answers: ['Litecoin', 'Ethereum', 'Bitcoin', 'Doge Coin'],
-        correctAnswer: 2
+       title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
     }, {
-        title: "At the time of his assassination, what play was Abraham Lincoln watching?",
-        answers: ['Family Guy', 'Our American Cousin', 'Fox News', 'CNN News'],
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
         correctAnswer: 1
     },
     {
-        title: "What is the world\'s most popular spectator sport?",
-        answers: ['Football/Soccer', 'Golf', 'Tennis', 'BasketBall'],
-        correctAnswer: 0
+       title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
     }, {
-        title: "In which city is the cathedral of Notre Dame?",
-        answers: ['Paris', 'London', 'Berlin', 'Amsterdam'],
-        correctAnswer: 0
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
     },
     {
-        title: "In which country is the Great Barrier Reef?",
-        answers: ['Germany', 'Spain', 'China', 'Australia'],
-        correctAnswer: 3
+       title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
     }, {
-        title: "What colour is a Panda?",
-        answers: ['Black and Yellow', 'Puprle and Green', 'Black and White', 'Blue and White'],
-        correctAnswer: 2
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
     },
     {
-        title: "Which Italian city is famous for its leaning tower?",
-        answers: ['Pisa', 'Rome', 'Milano', 'Naples'],
-        correctAnswer: 0
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
+    }, {
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
+    },
+    {
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
+    }, {
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
+    },
+    {
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
+    }, {
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
+    },
+    {
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
+    }, {
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
+    },
+    {
+        title: "Whats 20 devided by 4?",
+        answers: ['20', '5', '4', '10'],
+        correctAnswer: 1
     }
 ];
 var guess;
