@@ -4,7 +4,7 @@ $.fn.extend({
             $(this).css(css);
             next();
         });
-    }tit
+    }
 });
 
 var question = [{
